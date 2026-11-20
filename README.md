@@ -32,11 +32,10 @@ The main objectives of this project are to:
 - Obtaining The Has of the PDF file using Online **Hashtool**.
 - Using the hash on **JRT** to test integrity of the Password.
 - Testing the obtained Password from the Tool.
-- Identifying  **MAC Address** of a live hosts.
-- Displaying the output **topolgy** 
-#🎯 Objectives
-The main objectives of this project are to:
 
+</p>
+
+---
 
 🛡️ Purpose of the Project
 The Purpose of this project is to do Scan the Network inorder to identify the Host in the network as well, Service ports in the network as wll as the Network Topology by using Kali tool Nmap or Zenmap (GUI of Nmap) which is already pre installed in kali linux.
