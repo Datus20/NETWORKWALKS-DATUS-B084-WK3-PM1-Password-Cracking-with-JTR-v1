@@ -24,7 +24,7 @@ By Using tool called JRT which contain the back-end which doesn't contain a CLI 
 📌 Project Overview
 This project focuses on testing the password integrity  of the locked PDF file with a password and determine the password of the locked PDF usintg the tools known as john The Ripper JRT 
 
-🎯 Objectives
+#🎯 Objectives
 The main objectives of this project are to:
 
 To Download the JRT Tool
