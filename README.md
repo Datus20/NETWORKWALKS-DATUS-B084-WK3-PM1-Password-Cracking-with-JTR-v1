@@ -39,3 +39,12 @@ The main objectives of this project are to:
 
 🛡️ Purpose of the Project
 The Purpose of this project is test the password integrity  of the locked PDF file with a password and determine the password of the locked PDF usintg the tools known as john The Ripper JRT
+</p>
+
+---
+
+# Download & Install the **JRT Tools**
+The Tools were downloaded Extracted and installed as shown in screenshot below ,
+<img width="892" height="763" alt="johnny" src="https://github.com/user-attachments/assets/4a25e291-1165-4fa1-8aef-c7fa05915013" />
+
+</div>
