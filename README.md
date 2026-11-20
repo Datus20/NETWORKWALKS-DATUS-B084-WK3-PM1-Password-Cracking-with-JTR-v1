@@ -38,4 +38,4 @@ The main objectives of this project are to:
 ---
 
 🛡️ Purpose of the Project
-The Purpose of this project is to do Scan the Network inorder to identify the Host in the network as well, Service ports in the network as wll as the Network Topology by using Kali tool Nmap or Zenmap (GUI of Nmap) which is already pre installed in kali linux.
+The Purpose of this project is testing the password integrity  of the locked PDF file with a password and determine the password of the locked PDF usintg the tools known as john The Ripper JRT
