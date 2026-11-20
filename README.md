@@ -80,3 +80,48 @@ The obtained hashes which were saved,  were inserted into the tool to obtain or 
 Tool were run and the Password were obtained and ested on the Locked PDF file. 
 <img width="1917" height="1074" alt="6 passwid input" src="https://github.com/user-attachments/assets/3d5b7f40-f2a5-4c9c-9bc0-1b12249491c8" />
 
+</div>
+
+---
+
+# And The Flag  were captured.
+The Flag for the hashed files were captures and tested on the locked files as shown below,
+**Locked PDF File 1**
+<img width="1365" height="1031" alt="7 capture flag1" src="https://github.com/user-attachments/assets/c224346a-4974-4206-b9cf-9ad1ee70cb28" />
+
+</div>
+
+---
+
+**Locked PDF File 2**
+<img width="951" height="1027" alt="8 capture flag2" src="https://github.com/user-attachments/assets/f2d10758-8bd9-479c-a0d4-f461995ea206" />
+
+</div>
+
+---
+
+**Locked PDF File 3**
+
+<img width="957" height="1027" alt="9 capture flag3" src="https://github.com/user-attachments/assets/af4dce0e-36ba-44a0-a7f5-3267e08e6930" />
+
+</div>
+
+---
+
+# 🔗 Tools & Resources
+
+- **JTR Tool:** (https://www.openwall.com/john/)
+- **Online Hash calculator:** (https://www.onlinehashcrack.com/tools-pdf-hash-extractor.php)
+
+# 👤 Author
+
+**Datus Ekwabi**\
+
+LinkedIn: [www.linkedin.com/in/datus-ekwabi-43b622173
+---
+
+## 📌 Project Information
+
+**Program Name:** Cybersecurity at Networkwalks | **Week:** 03 | **Project:** Password Cracking With JTR v1| **Repository:** GitHub
+
+
