@@ -77,6 +77,6 @@ The obtained hashes which were saved,  were inserted into the tool to obtain or 
 
 ---
 
-Tool were run and the Password were 
+Tool were run and the Password were obtained and ested on the Locked PDF file. 
 <img width="1917" height="1074" alt="6 passwid input" src="https://github.com/user-attachments/assets/3d5b7f40-f2a5-4c9c-9bc0-1b12249491c8" />
 
