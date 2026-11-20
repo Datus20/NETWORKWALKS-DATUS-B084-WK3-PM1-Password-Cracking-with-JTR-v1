@@ -68,7 +68,7 @@ The hashing were obtained thru the web hashing tool and  hashes were saved in te
 
 ---
 
-# Using the hash on **JRT** to  capture the flag (test integrity of the Password).
+# Using the hash on **JRT** to  capture the flag .
 The obtained hashes which were saved,  were inserted into the tool to obtain or capture the password ,
 
 <img width="1014" height="687" alt="5 Using Hash" src="https://github.com/user-attachments/assets/7c290e22-f9de-4176-a535-b3b3451a5740" />
