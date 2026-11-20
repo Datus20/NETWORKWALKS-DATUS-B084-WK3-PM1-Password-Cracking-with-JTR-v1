@@ -38,4 +38,4 @@ The main objectives of this project are to:
 ---
 
 🛡️ Purpose of the Project
-The Purpose of this project is testing the password integrity  of the locked PDF file with a password and determine the password of the locked PDF usintg the tools known as john The Ripper JRT
+The Purpose of this project is test the password integrity  of the locked PDF file with a password and determine the password of the locked PDF usintg the tools known as john The Ripper JRT
