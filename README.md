@@ -48,3 +48,34 @@ The Tools were downloaded Extracted and installed as shown in screenshot below ,
 <img width="892" height="763" alt="johnny" src="https://github.com/user-attachments/assets/4a25e291-1165-4fa1-8aef-c7fa05915013" />
 
 </div>
+
+---
+
+# Obtaining The Has of the PDF file using Online **Hashtool**
+The hashing were obtained thru the web hashing tool and  hashes were saved in text format ,
+
+<img width="928" height="758" alt="3 hash" src="https://github.com/user-attachments/assets/25a9ec5b-e41e-4351-884e-5985eded9d5d" />
+
+
+</div>
+
+---
+
+<img width="1114" height="623" alt="4 hashes" src="https://github.com/user-attachments/assets/296760dc-beb2-4947-8e1a-365eadb9dcf7" />
+
+
+</div>
+
+---
+
+# Using the hash on **JRT** to  capture the flag (test integrity of the Password).
+The obtained hashes which were saved,  were inserted into the tool to obtain or capture the password ,
+
+<img width="1014" height="687" alt="5 Using Hash" src="https://github.com/user-attachments/assets/7c290e22-f9de-4176-a535-b3b3451a5740" />
+
+</div>
+
+---
+
+<img width="1917" height="1074" alt="6 passwid input" src="https://github.com/user-attachments/assets/3d5b7f40-f2a5-4c9c-9bc0-1b12249491c8" />
+
